@@ -1,4 +1,4 @@
-<b>GtkAda contributions</b>
+<H2>GtkAda contributions</H2>
 <p>The described here packages are proposed as a contribution to
 <a href="http://docs.adacore.com/gtkada-docs/gtkada_rm/gtkada_rm/">GtkAda</a>, an Ada bindings to
 <a href="http://www.gtk.org">GTK+</a>. It deals with the following issues:</p>
